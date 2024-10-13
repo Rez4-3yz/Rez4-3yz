@@ -35,7 +35,7 @@
    <a href="https://instagram.com/rezaa.205" target="_blank"><img src="https://img.shields.io/badge/instagram-%2397169e.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
    <a href="https://t.me/@rezaa.205" target="_blank"><img src="https://img.shields.io/badge/telegram-%23184ccc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
    <a href="https://wa.me/6283847334166" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2317ad1e.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-   <a href="https://twitter.com/belumada" target="_blank"><img src="https://img.shields.io/badge/twitter-%232a65f7.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+   <a href="https://x.com/Reza2005vi" target="_blank"><img src="https://img.shields.io/badge/twitter-%232a65f7.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   </div>
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
