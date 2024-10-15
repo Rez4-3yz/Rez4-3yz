@@ -51,18 +51,6 @@
 
 <br>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://open.spotify.com/embed/track/5X3HN2ZNAcnwriB48pW5mw?utm_source=generator" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
-
-<p align="center">
-  <a href="https://github.com/Rez4-3yz"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rez4-3yz&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
-</p>
-
-  <a href="https://github.com/Rez4-3yz"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rez4-3yz&theme=tokyonight"/>
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rez4-3yz&theme=juicyfresh" /><a>
 </p>
