@@ -62,19 +62,6 @@
 
   <a href="https://github.com/Rez4-3yz"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rez4-3yz&theme=tokyonight"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/instagram.com.reza.205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com.reza.205" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@rezdv4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@rezdv4" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Rez4-3yz"><img src="https://count.getloli.com/get/@:Rez4-3yz?theme=rule34" width="50%"/>
-</p>
-
-  <p align="center">
-  <img src='https://counter.seku.su/cmoe?name=Kimiko-chann&theme=r34' width="400px">
-
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rez4-3yz&theme=juicyfresh" /><a>
