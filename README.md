@@ -25,7 +25,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<h2 align="center"><img src="assets/contact_me.gif" width="35px"/><b>Connect with me</b></h2>
+
    
 <br>
 <br>
