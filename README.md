@@ -65,12 +65,6 @@
 
   <a href="https://github.com/Rez4-3yz"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rez4-3yz&theme=tokyonight"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/instagram.com.reza.205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com.reza.205" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@rezdv4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@rezdv4" height="30" width="40" /></a>
-</p>
-
 <p align="center">
   <a href="https://github.com/Rez4-3yz"><img src="https://count.getloli.com/get/@:Rez4-3yz?theme=rule34" width="50%"/>
 </p>
@@ -84,11 +78,12 @@
 </p>
 
 ## ```Status```
-![Github stats](https://github-readme-stats.vercel.app/api?username=Rez4-3yz&theme=radical&show_icons=true&count_private=true&hide=prs) </td> 
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rez4-3yz&theme=radical&layout=compact)](https://github.com/Rez4-3yz) </td>
-   </tr>
-  </table>
-  
+  <p align="center"><a href="https://github.com/Rez4-3yz"><img src="https://github-readme-stats.vercel.app/api?username=Rez4-3yz&show_icons=true&theme=radical"></a></p>
+
+<p align="center"><a href="https://github.com/Rez4-3yz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rez4-3yz&theme=radical&layout=compact"></a></p> 
+
+</details>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=footer">
 
 <h3 align="center">Bumi</h3>
