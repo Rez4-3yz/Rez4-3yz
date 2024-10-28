@@ -3,7 +3,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Rez4-3yz&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Rez4-3yz)
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
-<h1 align="center">Hai 👋, Developer Nama Reza Usia Saya 19 tahun 🎉</h1>
+<h1 align="center">Hai 👋, Developer Rza Usia Saya 19 tahun 🎉</h1>
 <h3 align="center">file yang tidak terpakai Saya Hapus Dari repositories Saya</h3>
 
 - 🎀 Saat ini saya sedang mengerjakannya **💬**
@@ -24,7 +24,7 @@
 
 <h1 align="center"><b>Hi there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">Nama Saya <b>Reza</b> (Dan Saya Lahir 2005) ! 🎉</h3>
+<h3 align="center">Nama Saya <b>Reza</b> (Dan Saya File Projek yang saya Sukai aja) ! 🎉</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
