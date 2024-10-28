@@ -3,8 +3,8 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Rez4-3yz&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Rez4-3yz)
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
-<h1 align="center">Hai 👋, Developer Nama Reza Lahir 2005 🎉</h1>
-<h3 align="center">Pengembang frontend yang bersemangat dari indonesia</h3>
+<h1 align="center">Hai 👋, Developer Nama Reza Usia Saya 19 tahun 🎉</h1>
+<h3 align="center">file yang tidak terpakai Saya Hapus Dari repositories Saya</h3>
 
 - 🎀 Saat ini saya sedang mengerjakannya **💬**
 
