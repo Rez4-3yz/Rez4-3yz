@@ -1,7 +1,4 @@
-
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Rez4-3yz&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Rez4-3yz)
-<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
 
 <h1 align="center">Hai 👋, Developer Rza Usia Saya 19 tahun 🎉</h1>
 <h3 align="center">file yang tidak terpakai Saya Hapus Dari repositories Saya</h3>
