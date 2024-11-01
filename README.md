@@ -1,17 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
 
-<h1 align="center">Hai 👋, Developer Rza Usia Saya 19 tahun 🎉</h1>
+<h1 align="center">Hello 👋, Welcome 🎉</h1>
 <h3 align="center">file yang tidak terpakai Saya Hapus Dari repositories Saya</h3>
 
 - 🎀 Saat ini saya sedang mengerjakannya **💬**
 
 - 🖥️ Saat ini saya sedang belajar **Yang saya sukai saja**
 
-- 📝 perkenalkan **Nama saya Reza**
+- 📝 perkenalkan **Nama saya Rza**
 
 - 💬 Tanyakan padaku tentang **Projek yang saya Suka**
 
-- 💌 Bagaimana cara menghubungi saya Email **rezabaikrez@gmail.com**
+- 💌 Bagaimana cara menghubungi saya Email **cufs262@gmail.com**
 
 - ⚡ Fakta menarik **🥇 🥈 🥉**
 
@@ -34,7 +34,7 @@
    <a href="https://github.com/Rez4-3yz" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
    <a href="https://instagram.com/rezaa.205" target="_blank"><img src="https://img.shields.io/badge/instagram-%2397169e.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
    <a href="https://t.me/@rezaa.205" target="_blank"><img src="https://img.shields.io/badge/telegram-%23184ccc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-   <a href="https://wa.me/6283847334166" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2317ad1e.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+   <a href="https://wa.me/6283839521483" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2317ad1e.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
    <a href="https://twitter.com/belumada" target="_blank"><img src="https://img.shields.io/badge/twitter-%232a65f7.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   </div>
 
