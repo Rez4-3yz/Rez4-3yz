@@ -7,21 +7,11 @@
 
 - 🖥️ Saat ini saya sedang belajar **Yang saya sukai saja**
 
-- 📝 perkenalkan **Nama saya Rza**
-
 - 💬 Tanyakan padaku tentang **Projek yang saya Suka**
 
 - 💌 Bagaimana cara menghubungi saya Email **cufs262@gmail.com**
 
-- ⚡ Fakta menarik **🥇 🥈 🥉**
-
 - <a href="https://github.com/Rez4-3yz/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2022+2024+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(💬%Stars);🌿%20Rza2005%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-
-- <p align='center'><a href="https://github.com/Rez4-3yz"><img height="200" src="https://avatars.githubusercontent.com/u/167752965?v=4"></a>&nbsp;&nbsp;</p>
-
-<h1 align="center"><b>Hi there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<h3 align="center">Nama Saya <b>Rza</b> (Programmer) 🎉</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
