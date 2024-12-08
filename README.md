@@ -39,6 +39,9 @@
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 📊 GitHub Stats</h2>
 
 <p align="center">
+  <a href="https://open.spotify.com/intl-id/track/4WkvGb3rV8yKA1tQ9kl8qs?utm_source=generator" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
+
+<p align="center">
   <a href="https://github.com/Rez4-3yz"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rez4-3yz&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
 
@@ -57,8 +60,6 @@
 </p>
 
 ## ```Status```
-<p align="center">
-  <a href="https://open.spotify.com/embed/track/5X3HN2ZNAcnwriB48pW5mw?utm_source=generator" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
 
   <p align="center"><a href="https://github.com/Rez4-3yz"><img src="https://github-readme-stats.vercel.app/api?username=Rez4-3yz&show_icons=true&theme=radical"></a></p>
 
