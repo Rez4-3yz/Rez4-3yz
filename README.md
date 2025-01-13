@@ -19,7 +19,7 @@
 </p>
 
   <p align="center">
-  <img src='https://counter.seku.su/cmoe?name=Rez4-3yz&theme=r34' width="400px">
+  <img src='https://counter.seku.su/cmoe?name=Kimiko-chann&theme=r34' width="400px">
 
 <p align="center">
   <a href="https://open.spotify.com/intl-id/track/4WkvGb3rV8yKA1tQ9kl8qs?utm_source=generator" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
