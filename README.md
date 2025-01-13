@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
 
 <h1 align="center">Hello 👋, Welcome 🎉</h1>
-<h3 align="center">file yang tidak terpakai Saya Hapus Dari repositories Saya</h3>
+<h3 align="center">I deleted unused files from my repository</h3>
 
 - 🖥️ Currently I am studying **What I like only**
 
