@@ -3,13 +3,9 @@
 <h1 align="center">Hello 👋, Welcome 🎉</h1>
 <h3 align="center">file yang tidak terpakai Saya Hapus Dari repositories Saya</h3>
 
-- 🎀 Saat ini saya sedang mengerjakannya **💬**
+- 🖥️ Currently I am studying **What I like only**
 
-- 🖥️ Saat ini saya sedang belajar **Yang saya sukai saja**
-
-- 💬 Tanyakan padaku tentang **Projek yang saya Suka**
-
-- 💌 Bagaimana cara menghubungi saya Email **cufs262@gmail.com**
+- 💌 You can chat with me via Gmail **cufs262@gmail.com**
 - 
 - <a href="https://github.com/Rez4-3yz/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+2024+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(💬%Stars);🌿%20Rza2005%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
