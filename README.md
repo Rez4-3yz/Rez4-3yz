@@ -6,7 +6,7 @@
 - 🖥️ Currently I am studying **What I like only**
 
 - 💌 You can chat with me via Gmail **cufs262@gmail.com**
-- 
+
 - <a href="https://github.com/Rez4-3yz/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+2024+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(💬%Stars);🌿%20Rza2005%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
 - <p align='center'><a href="https://github.com/Rez4-3yz"><img height="200" src="https://avatars.githubusercontent.com/u/167752965?v=4"></a>&nbsp;&nbsp;</p>
