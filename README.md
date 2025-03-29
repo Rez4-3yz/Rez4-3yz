@@ -7,32 +7,32 @@
 
 - 💌 You can chat with me via Gmail **cufs262@gmail.com**
 
-- <a href="https://github.com/Rez4-3yz/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=2021+2024+Finalist;(💬%Stars);%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+- <a href="https://github.com/Rza2005ni/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=2021+2024+Finalist;(💬%Stars);%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
-- <p align='center'><a href="https://github.com/Rez4-3yz"><img height="200" src="https://avatars.githubusercontent.com/u/167752965?v=4"></a>&nbsp;&nbsp;</p>
+- <p align='center'><a href="https://github.com/Rza2005ni"><img height="200" src="https://avatars.githubusercontent.com/u/167752965?v=4"></a>&nbsp;&nbsp;</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 📊 GitHub Stats</h2>
 
-<a href="https://github.com/Rez4-3yz"><img src="https://count.getloli.com/get/@:Rez4-3yz?theme=rule34" width="400%"/>
+<a href="https://github.com/Rza2005ni"><img src="https://count.getloli.com/get/@:Rza2005ni?theme=rule34" width="400%"/>
 </p>
 
 <p align="center">
   <a href="https://open.spotify.com/intl-id/track/4WkvGb3rV8yKA1tQ9kl8qs?utm_source=generator" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
 
 
-  <a href="https://github.com/Rez4-3yz"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rez4-3yz&theme=tokyonight"/>
+  <a href="https://github.com/Rza2005ni"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rza2005ni&theme=tokyonight"/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rez4-3yz&theme=juicyfresh" /><a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rza2005ni&theme=juicyfresh" /><a>
 </p>
 
 ## ```Status```
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-  <p align="center"><a href="https://github.com/Rez4-3yz"><img src="https://github-readme-stats.vercel.app/api?username=Rez4-3yz&show_icons=true&theme=radical"></a></p>
+  <p align="center"><a href="https://github.com/Rza2005ni"><img src="https://github-readme-stats.vercel.app/api?username=Rza2005ni&show_icons=true&theme=radical"></a></p>
 
-<p align="center"><a href="https://github.com/Rez4-3yz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rez4-3yz&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/Rza2005ni"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rza2005ni&theme=radical&layout=compact"></a></p> 
 
 </details>
 
