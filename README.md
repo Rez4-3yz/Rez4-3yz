@@ -25,7 +25,7 @@
   <a href="https://github.com/Rza2005ni"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rza2005ni&theme=tokyonight"/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rza2005ni&theme=juicyfresh" /><a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rez4-4&theme=juicyfresh" /><a>
 </p>
 
 ## ```Status```
