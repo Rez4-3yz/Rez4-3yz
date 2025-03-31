@@ -7,7 +7,7 @@
 
 - 💌 You can chat with me via Gmail **cufs262@gmail.com**
 
-- <a href="https://github.com/Rza2005ni/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=2021+2024+Finalist;(💬%Stars);%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+- <a href="https://github.com/Rza2005ni/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=2021+2024+Finalist;( 💬%Stars );%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
 - <p align='center'><a href="https://github.com/Rza2005ni"><img height="200" src="https://avatars.githubusercontent.com/u/167752965?v=4"></a>&nbsp;&nbsp;</p>
 
