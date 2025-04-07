@@ -25,12 +25,12 @@
   <a href="https://github.com/Rza2005ni"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rza2005ni&theme=tokyonight"/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rza200ni&theme=juicyfresh" /><a>
+  <img src="https://github-profile-trophy.vercel.app/?username=rza200ni&theme=juicyfresh" /><a>
 </p>
 
 ## ```Status```
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-  <p align="center"><a href="https://github.com/Rza2005ni"><img src="https://github-readme-stats.vercel.app/api?username=Rza2005ni&show_icons=true&theme=radical"></a></p>
+  <p align="center"><a href="https://github.com/rza2005ni"><img src="https://github-readme-stats.vercel.app/api?username=Rza2005ni&show_icons=true&theme=radical"></a></p>
 
 <p align="center"><a href="https://github.com/Rza2005ni"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rza2005ni&theme=radical&layout=compact"></a></p> 
 
